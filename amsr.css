@@ -1,0 +1,49 @@
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
+
+html, body {
+    margin: 0 0;
+    user-select: none;
+}
+
+#info{
+    margin-top: 0;
+}
+
+#board, #cover{
+    position: absolute;
+    top: calc(50vh - 50vmin);
+    left: calc(50vw - 50vmin);
+    height: 100vmin;
+    width: 100vmin;
+    background-color: lightblue;
+}
+#cover{
+    background-color: transparent;
+    display: none;
+}
+
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
